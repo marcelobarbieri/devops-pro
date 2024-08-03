@@ -1,2 +1,3 @@
 branch feature/arquivo-xpto
 nova linha arquivo xpto.txt repo local
+nova linha arquivo xpto.txt repo remoto
